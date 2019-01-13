@@ -1,0 +1,2 @@
+# gameofchess.github.io
+site
